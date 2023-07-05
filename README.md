@@ -1,5 +1,10 @@
-### Hi there 👋
+### Hi there 👨‍💻
+Sou um profissional especializado na área de Cloud, com foco principal na plataforma em nuvem Salesforce e suas ferramentas à mais de 3 anos. Trabalho como Salesforce Consunt para a [IBM Brasil](https://www.ibm.com/br-pt), atendendo grandes projetos.
 
+
+
+### Expertise 
+ 
 <!--
 **enriqSilv/enriqSilv** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
