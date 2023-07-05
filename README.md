@@ -9,6 +9,10 @@ My main focus is Salesforce, where I've been specializing and taking certificati
 I really like working with Cloud because I believe it is a universe apart, and developing and architecting new features captivates me.
 
 ### Expertise 💼
-![](https://github-readme-stats.vercel.app/api?username=enriqSilv&theme=shadow_red&show_icons=true)
-<br />
+
 <a href="https://github.com/enriqSilv/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=enriqSilv&layout=compact&theme=shadow_red&hide_border=true" /></a> 
+
+<br />
+
+![](https://github-readme-stats.vercel.app/api?username=enriqSilv&theme=shadow_red&show_icons=true)
+
