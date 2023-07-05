@@ -1,24 +1,13 @@
 ### Hi there 👨‍💻
-Sou um profissional especializado na área de Cloud, com foco principal na plataforma em nuvem Salesforce e suas ferramentas à mais de 3 anos. Trabalho como Salesforce Consunt para a [IBM Brasil](https://www.ibm.com/br-pt), atendendo grandes projetos.
+I am a professional specialized in the Cloud area, with a main focus on the Salesforce cloud platform and its tools for over 3 years. I work as a Salesforce Consultant for [IBM Brazil](https://www.ibm.com/br-pt), handling large projects.
 
-Além de minsitrar aulas voltadas a Tecnologia para o [nstituto da Oportunidade da Social](https://ios.org.br/) uma ONG em São Paulo, capital.
+In addition to teaching classes focused on Technology for the [Instituto da Oportunidade da Social](https://ios.org.br/), an NGO in São Paulo, capital.
 
+### Expertise 💼
+My main focus is Salesforce, where I've been specializing and taking certifications. In addition to expanding my studies in AWS, GCP, Azure and IBM Cloud.
 
+I have extensive knowledge of HTML, CSS, JavaScript, AMPscript and SQL.
 
-### Expertise 
- 
-<!--
-**enriqSilv/enriqSilv** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I really like working with Cloud because I believe it is a universe apart, and developing and architecting new features captivates me.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=enriqSilv&theme=shadow_red&show_icons=true)
