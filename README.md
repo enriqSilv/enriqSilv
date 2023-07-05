@@ -10,4 +10,5 @@ I really like working with Cloud because I believe it is a universe apart, and d
 
 ### Expertise 💼
 ![](https://github-readme-stats.vercel.app/api?username=enriqSilv&theme=shadow_red&show_icons=true)
+<br />
 <a href="https://github.com/enriqSilv/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=enriqSilv&layout=compact&theme=buefy&hide_border=true" /></a> 
