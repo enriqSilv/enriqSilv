@@ -1,6 +1,8 @@
 ### Hi there 👨‍💻
 Sou um profissional especializado na área de Cloud, com foco principal na plataforma em nuvem Salesforce e suas ferramentas à mais de 3 anos. Trabalho como Salesforce Consunt para a [IBM Brasil](https://www.ibm.com/br-pt), atendendo grandes projetos.
 
+Além de minsitrar aulas voltadas a Tecnologia para o [nstituto da Oportunidade da Social](https://ios.org.br/) uma ONG em São Paulo, capital.
+
 
 
 ### Expertise 
