@@ -8,6 +8,19 @@ My main focus is Salesforce, where I've been specializing and taking certificati
 
 I really like working with Cloud because I believe it is a universe apart, and developing and architecting new features captivates me.
 
+
+# Certifications and Badges 
+<img src="https://github.com/enriqSilv/enriqSilv/assets/120118274/8eafd378-f810-489c-b050-7712c958097e" width="100" height="100">
+<img src="https://github.com/enriqSilv/enriqSilv/assets/120118274/2272216d-ddad-4f40-90b4-f5526cf964a1" width="100" height="100">
+<br/>
+<img src="https://github.com/enriqSilv/enriqSilv/assets/120118274/7b79f99c-0d4a-4e13-a0ce-fb121f67a966" width="100" height="100">
+<img src="https://github.com/enriqSilv/enriqSilv/assets/120118274/a5a333d7-ee01-48de-8e79-6b5228a43552" width="100" height="100">
+
+
+
+
+
+
 # Cloud Stacks ☁️
 ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white)
 
