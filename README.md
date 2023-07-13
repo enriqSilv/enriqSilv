@@ -36,7 +36,7 @@ I really like working with Cloud because I believe it is a universe apart, and d
 
 # Stats 📈
 
-<a href="https://github.com/enriqSilv/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=enriqSilv&layout=compact&theme=shadow_red&hide_border=true" /></a> 
+<a href="https://github.com/enriqSilv/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=enriqSilv&layout=compact&theme=shadow_blue&hide_border=true" /></a> 
 
 <br />
 
