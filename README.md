@@ -58,7 +58,7 @@ I really like working with Cloud because I believe it is a universe apart, and d
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
 # Socials 📱
-<a href="https://www.linkedin.com/in/josehenrique38/"><img src="https://github.com/enriqSilv/enriqSilv/assets/120118274/e52c4d45-f44e-481d-ad3d-d2a717801ee3"></a>
+<a href="https://www.linkedin.com/in/josehenrique38/"><img src="https://github.com/enriqSilv/enriqSilv/assets/120118274/e52c4d45-f44e-481d-ad3d-d2a717801ee3" href="https://www.linkedin.com/in/josehenrique38/"></a>
 
 
 # Stats 📈
