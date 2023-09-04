@@ -29,10 +29,11 @@ I really like working with Cloud because I believe it is a universe apart, and d
 <img src="https://github.com/enriqSilv/enriqSilv/assets/120118274/6a2769c5-18b7-42c5-acb1-a45b2070da26" width="80" height="80">
 <img src="https://github.com/enriqSilv/enriqSilv/assets/120118274/2272216d-ddad-4f40-90b4-f5526cf964a1" width="80" height="80">
 <img src="https://github.com/enriqSilv/enriqSilv/assets/120118274/725de648-bd5f-47ea-8e9e-e19a16115817" width="80" height="80">
+<img src="https://github.com/enriqSilv/enriqSilv/assets/120118274/d0cc4aa7-c301-40f0-9853-b4ac51144a6d" width="80" height="80">
+
 <br />
 <img src="https://github.com/enriqSilv/enriqSilv/assets/120118274/8eafd378-f810-489c-b050-7712c958097e" width="80" height="80">
 <br/>
-
 
 ## DIO
 <br/>
