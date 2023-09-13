@@ -38,7 +38,7 @@ I really like working with Cloud because I believe it is a universe apart, and d
 
 <br/>
 
-## DIO
+## DIO BOOTCAMPS
 <br/>
 <img src="https://github.com/enriqSilv/enriqSilv/assets/120118274/5a3608f1-73c0-4527-8999-154ba9328822" width="80" height="80">
 <img src="https://github.com/enriqSilv/enriqSilv/assets/120118274/2d40c3be-38a8-4c6d-9771-1561e8baa031" width="80" height="80">
