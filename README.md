@@ -16,8 +16,6 @@ I really like working with Cloud because I believe it is a universe apart, and d
 <img src="https://github.com/enriqSilv/enriqSilv/assets/120118274/7b79f99c-0d4a-4e13-a0ce-fb121f67a966" width="80" height="80">
 <img src="https://github.com/enriqSilv/enriqSilv/assets/120118274/a5a333d7-ee01-48de-8e79-6b5228a43552" width="80" height="80">
 <br />
-<img src="https://github.com/enriqSilv/enriqSilv/assets/120118274/8a3d7027-dde1-4000-8542-f23c17849902" width="80" height="80">
-<br/>
 
 ## AWS 
 <img src="https://github.com/enriqSilv/enriqSilv/assets/120118274/5d06aa78-1383-47b6-8965-4a187ea398f7" width="80" height="80">
