@@ -37,6 +37,11 @@ I really like working with Cloud because I believe it is a universe apart, and d
 
 <br/>
 
+## Oracle Cloud
+<img src="https://github.com/enriqSilv/enriqSilv/assets/120118274/43f70360-430d-487c-bc39-4278a53a1fce" width="80" height="80">
+
+<br/>
+
 ## DIO BOOTCAMPS
 <br/>
 <img src="https://github.com/enriqSilv/enriqSilv/assets/120118274/5a3608f1-73c0-4527-8999-154ba9328822" width="80" height="80">
