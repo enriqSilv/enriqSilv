@@ -4,7 +4,7 @@ I am a professional specialized in the Cloud area, with a main focus on the Sale
 In addition to teaching classes focused on Technology for the [Instituto da Oportunidade da Social](https://ios.org.br/), an NGO in São Paulo, Brazil.
 
 # Expertise 💼
-My main focus is Salesforce, where I've been specializing and taking certifications. In addition to expanding my studies in AWS, GCP, Azure and IBM Cloud.
+My main focus is Salesforce, where I've been specializing and taking certifications. In addition to expanding my studies in AWS, OCI, GCP, Azure and IBM Cloud.
 
 I really like working with Cloud because I believe it is a universe apart, and developing and architecting new features captivates me.
 
