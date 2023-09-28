@@ -48,8 +48,9 @@ I really like working with Cloud because I believe it is a universe apart, and d
 <img src="https://github.com/enriqSilv/enriqSilv/assets/120118274/2d40c3be-38a8-4c6d-9771-1561e8baa031" width="80" height="80">
 <img src="https://github.com/enriqSilv/enriqSilv/assets/120118274/bd34fc55-3a4d-4496-aec7-6bebfb3128d9" width="80" height="80">
 <img src="https://github.com/enriqSilv/enriqSilv/assets/120118274/0b88525e-04ad-4829-8f67-8ce568be3c00" width="80" height="80">
-<img src="https://github.com/enriqSilv/enriqSilv/assets/120118274/e06dfc3a-1a28-4377-bbd6-d545cb36be39" width="80" height="80">
 <img src="https://github.com/enriqSilv/enriqSilv/assets/120118274/b85ab10f-56e8-4e88-9bd1-0514d2890306" width="80" height="80">
+<img src="https://github.com/enriqSilv/enriqSilv/assets/120118274/e06dfc3a-1a28-4377-bbd6-d545cb36be39" width="80" height="80">
+
 
 
 # Cloud Skills ☁️
