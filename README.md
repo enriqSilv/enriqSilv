@@ -22,6 +22,16 @@ I really like working with Cloud because I believe it is a universe apart, and d
 
 <br/>
 
+## IBM Cloud
+<img src="https://github.com/enriqSilv/enriqSilv/assets/120118274/7ca91768-b036-4774-b25b-4795aa499200" width="80" height="80">
+
+<br/>
+
+## Oracle Cloud
+<img src="https://github.com/enriqSilv/enriqSilv/assets/120118274/43f70360-430d-487c-bc39-4278a53a1fce" width="80" height="80">
+
+<br/>
+
 ## IBM
 <img src="https://github.com/enriqSilv/enriqSilv/assets/120118274/c9f7ea82-b710-4e11-aec9-d2eb9e71d2c9" width="80" height="80">
 <img src="https://github.com/enriqSilv/enriqSilv/assets/120118274/21dea914-e51e-40d2-82bc-821cf3332aa4" width="80" height="80">
@@ -38,10 +48,6 @@ I really like working with Cloud because I believe it is a universe apart, and d
 
 <br/>
 
-## Oracle Cloud
-<img src="https://github.com/enriqSilv/enriqSilv/assets/120118274/43f70360-430d-487c-bc39-4278a53a1fce" width="80" height="80">
-
-<br/>
 
 ## DIO BOOTCAMPS
 <br/>
