@@ -1,12 +1,9 @@
-# Hi there 👨‍💻
-I am a professional specialized in the Cloud area, with a main focus on the Salesforce cloud platform and its tools for over 3 years. I work as a Salesforce Consultant for [IBM Brazil](https://www.ibm.com/br-pt), handling large projects.
+# Olá, muito bem-vindo! 👨‍💻
+Como profissional multidisciplinar, combino expertise em Marketing, Inteligência Artificial e Cloud Computing para impulsionar resultados notáveis. Com foco em Cloud Computing, lidero projetos estratégicos como consultor Salesforce para clientes de grande porte, aprimorando soluções inovadoras e eficientes.
 
-In addition to teaching classes focused on Technology for the [Instituto da Oportunidade da Social](https://ios.org.br/), an NGO in São Paulo, Brazil.
+Com mais de 4 anos de experiência no terceiro setor, desenvolvi e implementei cursos de TI, fortalecendo práticas tecnológicas e contribuindo para avanços significativos. Minha abordagem comprometida com a excelência e a inovação tem sido um diferencial, gerando impacto positivo tanto no ambiente corporativo quanto social.
 
-# Expertise 💼
-My main focus is Salesforce, where I've been specializing and taking certifications. In addition to expanding my studies in AWS, OCI, GCP, Azure and IBM Cloud.
-
-I really like working with Cloud because I believe it is a universe apart, and developing and architecting new features captivates me.
+Estou constantemente buscando desafios que me permitam aplicar minha expertise em Cloud Computing de forma estratégica, agregando valor aos projetos e organizações com as quais colaboro. Sou apaixonado por impulsionar o progresso através da tecnologia e estou preparado para enfrentar novos desafios e oportunidades.
 
 
 # Certifications and Badges 
