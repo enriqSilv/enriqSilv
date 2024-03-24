@@ -58,6 +58,8 @@ Estou constantemente buscando desafios que me permitam aplicar minha expertise e
 <img src="https://github.com/enriqSilv/enriqSilv/assets/120118274/b85ab10f-56e8-4e88-9bd1-0514d2890306" width="80" height="80">
 <img src="https://github.com/enriqSilv/enriqSilv/assets/120118274/e06dfc3a-1a28-4377-bbd6-d545cb36be39" width="80" height="80">
 
+<img src="https://github.com/enriqSilv/enriqSilv/assets/120118274/dbc40a7e-150d-44d8-8dec-9c8c6c48cfe4" width="80" height="80">
+
 
 
 # Cloud Skills ☁️
