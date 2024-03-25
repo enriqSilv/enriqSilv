@@ -1,5 +1,5 @@
 # Olá, muito bem-vindo! 👨‍💻
-Como profissional multidisciplinar, combino expertise em Marketing, Inteligência Artificial e Cloud Computing para impulsionar resultados notáveis. Com foco em Cloud Computing, lidero projetos estratégicos como consultor Salesforce para clientes de grande porte, aprimorando soluções inovadoras e eficientes.
+Sou um profissional multidisciplinar, combino expertise em Marketing, Inteligência Artificial e Cloud Computing para impulsionar resultados notáveis. Com foco em Cloud Computing, lidero projetos estratégicos como consultor Salesforce para clientes de grande porte, aprimorando soluções inovadoras e eficientes.
 
 Com mais de 4 anos de experiência no terceiro setor, desenvolvi e implementei cursos de TI, fortalecendo práticas tecnológicas e contribuindo para avanços significativos. Minha abordagem comprometida com a excelência e a inovação tem sido um diferencial, gerando impacto positivo tanto no ambiente corporativo quanto social.
 
