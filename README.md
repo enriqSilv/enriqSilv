@@ -1,9 +1,9 @@
 # Olá, muito bem-vindo! 👨‍💻
-Como profissional multidisciplinar, combino expertise em Marketing, Inteligência Artificial e Cloud Computing para impulsionar resultados notáveis. Com foco em Marketing Cloud, trabalho há 4 anos e lidero projetos estratégicos de Salesforce para clientes, aprimorando soluções inovadoras e eficientes.
+Como profissional multidisciplinar, combino expertise em Marketing, Inteligência Artificial e Cloud Computing para impulsionar resultados excepcionais. Com mais de 4 anos de experiência em Marketing Cloud, lidero projetos estratégicos de Salesforce, desenvolvendo soluções inovadoras e eficientes que agregam valor real para os clientes.
 
-Com mais de 4 anos de experiência no terceiro setor, desenvolvi e implementei cursos de TI, fortalecendo práticas tecnológicas e contribuindo para avanços significativos. Minha abordagem comprometida com a excelência e a inovação tem sido um diferencial, gerando impacto positivo tanto no ambiente corporativo quanto social.
+Minha trajetória inclui uma atuação significativa no terceiro setor, onde desenvolvi e implementei cursos de TI, fortalecendo práticas tecnológicas e promovendo avanços importantes. Esta experiência reforça minha capacidade de aplicar a tecnologia de maneira prática e impactante, tanto em ambientes corporativos quanto sociais.
 
-Estou constantemente buscando desafios que me permitam aplicar minha expertise em Cloud Computing de forma estratégica, agregando valor aos projetos e organizações com as quais colaboro. Sou apaixonado por impulsionar o progresso através da tecnologia.
+Atualmente, como especialista em Salesforce Marketing Cloud e líder técnico, sou uma referência em arquitetura e soluções de marketing na nuvem. Minha paixão por inovação e excelência em liderança me impulsiona a transformar desafios em oportunidades, otimizando resultados e guiando equipes para o sucesso em projetos complexos.
 
 
 # Certifications and Badges 
