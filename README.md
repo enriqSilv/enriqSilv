@@ -3,15 +3,9 @@ Como profissional multidisciplinar, combino expertise em Marketing, Inteligênci
 
 Além de atuar em grandes companhias, minha trajetória inclui uma atuação significativa no terceiro setor, onde desenvolvi e implementei cursos de TI, fortalecendo práticas tecnológicas e promovendo avanços importantes. Esta experiência faz reforço com a minha capacidade de aplicar a tecnologia de maneira prática e impactante, tanto em ambientes corporativos quanto sociais.
 
+Formado em Marketing pela Universidade Nove de Julho, cursando o último semestre do Bacharelado de Sistemas de Informação pela Anhembi Morumbi, e estudante do MBA em Cloud Engineering & Architecture pela FIAP.
+
 Minha paixão por inovação e excelência em liderança me impulsiona a transformar desafios em oportunidades, otimizando resultados e guiando equipes para o sucesso em projetos complexos.
-
-Me encontre nas demais plataformas: <br>
-Trailhead: https://trailblazer.me/id/jdasilva21 <br>
-DIO: https://www.dio.me/users/henrique_kun_hs <br>
-Microsoft Learn: https://learn.microsoft.com/pt-br/users/josehenriquedasilva-5879/ <br>
-Credly: https://www.credly.com/users/jose-da-silva.676efc07/badges <br>
-Medium: https://medium.com/@josehenriquee.silvaa <br>
-
 
 # Certifications and Badges 
 ## Salesforce
