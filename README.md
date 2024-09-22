@@ -1,9 +1,16 @@
 # Olá, muito bem-vindo! 👨‍💻
-Como profissional multidisciplinar, combino expertise em Marketing, Inteligência Artificial e Cloud Computing para impulsionar resultados excepcionais. Com mais de 4 anos de experiência em Marketing Cloud, lidero projetos estratégicos de Salesforce, desenvolvendo soluções inovadoras e eficientes que agregam valor real para os clientes.
+Como profissional multidisciplinar, combino expertise em Marketing, Inteligência Artificial e Cloud Computing para impulsionar resultados excepcionais. Com mais de 4 anos de experiência em Salesforce, lidero projetos estratégicos de Marketing Cloud, desenvolvendo soluções inovadoras e eficientes que agregam valor real para os clientes.
 
-Minha trajetória inclui uma atuação significativa no terceiro setor, onde desenvolvi e implementei cursos de TI, fortalecendo práticas tecnológicas e promovendo avanços importantes. Esta experiência reforça minha capacidade de aplicar a tecnologia de maneira prática e impactante, tanto em ambientes corporativos quanto sociais.
+Além de atuar em grandes companhias, minha trajetória inclui uma atuação significativa no terceiro setor, onde desenvolvi e implementei cursos de TI, fortalecendo práticas tecnológicas e promovendo avanços importantes. Esta experiência faz reforço com a minha capacidade de aplicar a tecnologia de maneira prática e impactante, tanto em ambientes corporativos quanto sociais.
 
-Atualmente, como especialista em Salesforce Marketing Cloud e líder técnico, sou uma referência em arquitetura e soluções de marketing na nuvem. Minha paixão por inovação e excelência em liderança me impulsiona a transformar desafios em oportunidades, otimizando resultados e guiando equipes para o sucesso em projetos complexos.
+Minha paixão por inovação e excelência em liderança me impulsiona a transformar desafios em oportunidades, otimizando resultados e guiando equipes para o sucesso em projetos complexos.
+
+Me encontre nas demais plataformas:
+Trailhead: https://trailblazer.me/id/jdasilva21 
+DIO: https://www.dio.me/users/henrique_kun_hs
+Microsoft Learn: https://learn.microsoft.com/pt-br/users/josehenriquedasilva-5879/
+Credly: https://www.credly.com/users/jose-da-silva.676efc07/badges
+Medium: https://medium.com/@josehenriquee.silvaa
 
 
 # Certifications and Badges 
