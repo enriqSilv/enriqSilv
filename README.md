@@ -5,12 +5,12 @@ Além de atuar em grandes companhias, minha trajetória inclui uma atuação sig
 
 Minha paixão por inovação e excelência em liderança me impulsiona a transformar desafios em oportunidades, otimizando resultados e guiando equipes para o sucesso em projetos complexos.
 
-Me encontre nas demais plataformas:
-Trailhead: https://trailblazer.me/id/jdasilva21 
-DIO: https://www.dio.me/users/henrique_kun_hs
-Microsoft Learn: https://learn.microsoft.com/pt-br/users/josehenriquedasilva-5879/
-Credly: https://www.credly.com/users/jose-da-silva.676efc07/badges
-Medium: https://medium.com/@josehenriquee.silvaa
+Me encontre nas demais plataformas: <br>
+Trailhead: https://trailblazer.me/id/jdasilva21 <br>
+DIO: https://www.dio.me/users/henrique_kun_hs <br>
+Microsoft Learn: https://learn.microsoft.com/pt-br/users/josehenriquedasilva-5879/ <br>
+Credly: https://www.credly.com/users/jose-da-silva.676efc07/badges <br>
+Medium: https://medium.com/@josehenriquee.silvaa <br>
 
 
 # Certifications and Badges 
