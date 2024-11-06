@@ -1,11 +1,9 @@
-# Olá, muito bem-vindo! 👨‍💻
-Como profissional multidisciplinar, combino expertise em Marketing, Inteligência Artificial e Cloud Computing para impulsionar resultados excepcionais. Com mais de 4 anos de experiência em Salesforce, lidero projetos estratégicos de Marketing Cloud, desenvolvendo soluções inovadoras e eficientes que agregam valor real para os clientes.
+# Quem sou eu? 👨‍💻
+Sou um profissional com forte formação em Marketing, Tecnologia e Cloud Computing, com mais de 4 anos de experiência em Salesforce, liderando projetos e desenvolvendo soluções inovadoras para otimizar operações e gerar resultados significativos para os clientes. Minha formação inclui uma graduação em Marketing, o Bacharelado em Sistemas de Informação e um MBA em Cloud Engineering & Architecture, áreas que me permitem combinar expertise técnica com uma visão estratégica de negócios.
 
-Além de atuar em grandes companhias, minha trajetória inclui uma atuação significativa no terceiro setor, onde desenvolvi e implementei cursos de TI, fortalecendo práticas tecnológicas e promovendo avanços importantes. Esta experiência faz reforço com a minha capacidade de aplicar a tecnologia de maneira prática e impactante, tanto em ambientes corporativos quanto sociais.
+Ao longo da minha carreira, tive a oportunidade de atuar tanto em grandes empresas quanto no terceiro setor, onde desenvolvi e implementei cursos de TI, ajudando a capacitar alunos de baixa renda e promover a inclusão digital. Essa experiência me proporcionou uma abordagem prática para aplicar tecnologias emergentes de forma que façam a diferença no mercado de trabalho e na vida das pessoas.
 
-Formado em Marketing pela Universidade Nove de Julho, cursando o último semestre do Bacharelado de Sistemas de Informação pela Anhembi Morumbi, e estudante do MBA em Cloud Engineering & Architecture pela FIAP.
-
-Minha paixão por inovação e excelência em liderança me impulsiona a transformar desafios em oportunidades, otimizando resultados e guiando equipes para o sucesso em projetos complexos.
+Com um perfil multidisciplinar, busco sempre integrar diferentes áreas do conhecimento para gerar soluções que atendam às necessidades dos clientes e contribuam para o avanço da tecnologia no dia a dia das empresas.
 
 # Certifications and Badges 
 ## Salesforce
