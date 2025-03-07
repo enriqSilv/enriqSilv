@@ -1,11 +1,15 @@
 # Quem sou eu? 👨‍💻
 Profissional com sólida formação em Marketing, Tecnologia e Cloud Computing, com mais de 4 anos de experiência em Salesforce, liderando projetos e desenvolvendo soluções inovadoras para otimizar operações e gerar impacto estratégico para os clientes.
 
-Possuo experiência na expansão de portfólios de soluções em CRM e Marketing Cloud, incluindo a implementação de Salesforce Marketing Cloud, Tableau, AWS e outras tecnologias associadas, ampliando a oferta de serviços e impulsionando a transformação digital em diferentes organizações.
+Possuo experiência na expansão, aplicação e gestão de portfólios de soluções em Salesforce e outras tecnologias associadas, ampliando a oferta de serviços e impulsionando a transformação digital em diferentes organizações, além de atuar com metodologias ágeis para garantir entregas alinhadas às necessidades do cliente.
 
-Minha formação inclui uma graduação em Marketing, um Bacharelado em Sistemas de Informação e um MBA em Cloud Engineering & Architecture, permitindo-me combinar expertise técnica com visão estratégica de negócios. Além da experiência no setor corporativo, atuei no terceiro setor, desenvolvendo e implementando cursos de TI para capacitar alunos de baixa renda e promover a inclusão digital.
+Atualmente sou Mestrando em Ciência da Computação pela UNESP, e com formações em Marketing, Bacharelado em Sistemas de Informação e MBA em Cloud Engineering & Architecture, permitindo-me combinar expertise técnica com visão estratégica de negócios. 
 
-Com um perfil multidisciplinar e orientado a resultados, busco sempre integrar inteligência artificial, CRM e computação em nuvem para criar soluções que impulsionam a eficiência operacional e o crescimento sustentável das empresas.
+Além da experiência no setor corporativo, atuei no terceiro setor, desenvolvendo e ministrando cursos de TI para capacitar alunos de baixa renda e promover a inclusão digital.
+
+Com um perfil multidisciplinar e orientado a resultados, busco sempre integrar inteligência artificial, CRM e computação em nuvem para criar soluções que impulsionam a eficiência operacional e o crescimento das empresas.
+
+Certificações: Salesforce Associate, Salesforce Marketing Cloud E-mail Specialist, AWS Certified Cloud Practitioner, IBM Consultant Profession Certification, IBM Certified Advocate - Cloud v2, Oracle Cloud Infrastructure 2023 Certified
 
 # Certifications and Badges 
 ## Salesforce
