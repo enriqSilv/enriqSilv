@@ -9,47 +9,47 @@ Além da atuação corporativa, dedico-me à inclusão digital, desenvolvendo e 
 ## Salesforce
 
 
-<img src="https://github.com/enriqSilv/enriqSilv/assets/120118274/7b79f99c-0d4a-4e13-a0ce-fb121f67a966" width="180" height="180">
-<img src="https://github.com/enriqSilv/enriqSilv/assets/120118274/a5a333d7-ee01-48de-8e79-6b5228a43552" width="180" height="180">
+<img src="https://github.com/enriqSilv/enriqSilv/assets/120118274/7b79f99c-0d4a-4e13-a0ce-fb121f67a966" width="120" height="120">
+<img src="https://github.com/enriqSilv/enriqSilv/assets/120118274/a5a333d7-ee01-48de-8e79-6b5228a43552" width="120" height="120">
 <br />
 
 ## AWS 
-<img src="https://github.com/enriqSilv/enriqSilv/assets/120118274/5d06aa78-1383-47b6-8965-4a187ea398f7" width="180" height="180">
+<img src="https://github.com/enriqSilv/enriqSilv/assets/120118274/5d06aa78-1383-47b6-8965-4a187ea398f7" width="120" height="120">
 
 <br/>
 
 ## IBM Cloud
-<img src="https://github.com/enriqSilv/enriqSilv/assets/120118274/7ca91768-b036-4774-b25b-4795aa499200" width="180" height="180">
+<img src="https://github.com/enriqSilv/enriqSilv/assets/120118274/7ca91768-b036-4774-b25b-4795aa499200" width="120" height="120">
 
 <br/>
 
 ## Oracle Cloud
-<img src="https://github.com/enriqSilv/enriqSilv/assets/120118274/43f70360-430d-487c-bc39-4278a53a1fce" width="180" height="180">
-<img src="https://github.com/user-attachments/assets/7d830066-f88a-4fa1-bfae-50878be73c8f" width="180" height="180">
+<img src="https://github.com/enriqSilv/enriqSilv/assets/120118274/43f70360-430d-487c-bc39-4278a53a1fce" width="120" height="120">
+<img src="https://github.com/user-attachments/assets/7d830066-f88a-4fa1-bfae-50878be73c8f" width="120" height="120">
 
 <br/>
 
 ## Google
-<img src="https://github.com/user-attachments/assets/2a764e27-fa61-4296-8080-549b74541831" width="180" height="180">
+<img src="https://github.com/user-attachments/assets/2a764e27-fa61-4296-8080-549b74541831" width="120" height="120">
 
 <br/>
 
 ## IBM
-<img src="https://github.com/enriqSilv/enriqSilv/assets/120118274/c9f7ea82-b710-4e11-aec9-d2eb9e71d2c9" width="180" height="180">
-<img src="https://github.com/enriqSilv/enriqSilv/assets/120118274/21dea914-e51e-40d2-82bc-821cf3332aa4" width="180" height="180">
-<img src="https://github.com/enriqSilv/enriqSilv/assets/120118274/6a2769c5-18b7-42c5-acb1-a45b2070da26" width="180" height="180">
-<img src="https://github.com/enriqSilv/enriqSilv/assets/120118274/2272216d-ddad-4f40-90b4-f5526cf964a1" width="180" height="180">
-<img src="https://github.com/enriqSilv/enriqSilv/assets/120118274/725de648-bd5f-47ea-8e9e-e19a16115817" width="180" height="180">
-<img src="https://github.com/enriqSilv/enriqSilv/assets/120118274/70b05289-dc9a-467f-99cd-684cdcad6cb0" width="180" height="180">
-<img src="https://github.com/enriqSilv/enriqSilv/assets/120118274/71373070-45c9-490f-925c-bfffbffc17e6" width="180" height="180">
-<img src="https://github.com/enriqSilv/enriqSilv/assets/120118274/c9a01999-0a47-4cdd-ab87-eeba3edac819" width="180" height="180">
-<img src="https://github.com/enriqSilv/enriqSilv/assets/120118274/d0cc4aa7-c301-40f0-9853-b4ac51144a6d" width="180" height="180">
-<img src="https://github.com/enriqSilv/enriqSilv/assets/120118274/f430eb32-7866-4196-8a9e-817e61f0b7e6" width="180" height="180">
+<img src="https://github.com/enriqSilv/enriqSilv/assets/120118274/c9f7ea82-b710-4e11-aec9-d2eb9e71d2c9" width="120" height="120">
+<img src="https://github.com/enriqSilv/enriqSilv/assets/120118274/21dea914-e51e-40d2-82bc-821cf3332aa4" width="120" height="120">
+<img src="https://github.com/enriqSilv/enriqSilv/assets/120118274/6a2769c5-18b7-42c5-acb1-a45b2070da26" width="120" height="120">
+<img src="https://github.com/enriqSilv/enriqSilv/assets/120118274/2272216d-ddad-4f40-90b4-f5526cf964a1" width="120" height="120">
+<img src="https://github.com/enriqSilv/enriqSilv/assets/120118274/725de648-bd5f-47ea-8e9e-e19a16115817" width="120" height="120">
+<img src="https://github.com/enriqSilv/enriqSilv/assets/120118274/70b05289-dc9a-467f-99cd-684cdcad6cb0" width="120" height="120">
+<img src="https://github.com/enriqSilv/enriqSilv/assets/120118274/71373070-45c9-490f-925c-bfffbffc17e6" width="120" height="120">
+<img src="https://github.com/enriqSilv/enriqSilv/assets/120118274/c9a01999-0a47-4cdd-ab87-eeba3edac819" width="120" height="120">
+<img src="https://github.com/enriqSilv/enriqSilv/assets/120118274/d0cc4aa7-c301-40f0-9853-b4ac51144a6d" width="120" height="120">
+<img src="https://github.com/enriqSilv/enriqSilv/assets/120118274/f430eb32-7866-4196-8a9e-817e61f0b7e6" width="120" height="120">
 
 <br />
-<img src="https://github.com/enriqSilv/enriqSilv/assets/120118274/8eafd378-f810-489c-b050-7712c958097e" width="180" height="180">
-<img src="https://github.com/enriqSilv/enriqSilv/assets/120118274/8b6d8ef1-2328-4c7b-a56f-a2af7ff30235" width="180" height="180">
-<img src="https://github.com/enriqSilv/enriqSilv/assets/120118274/58da31d2-16d2-4fd4-9c38-f140a4a22cc4" width="180" height="180">
+<img src="https://github.com/enriqSilv/enriqSilv/assets/120118274/8eafd378-f810-489c-b050-7712c958097e" width="120" height="120">
+<img src="https://github.com/enriqSilv/enriqSilv/assets/120118274/8b6d8ef1-2328-4c7b-a56f-a2af7ff30235" width="120" height="120">
+<img src="https://github.com/enriqSilv/enriqSilv/assets/120118274/58da31d2-16d2-4fd4-9c38-f140a4a22cc4" width="120" height="120">
 
 <br/>
 
