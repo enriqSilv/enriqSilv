@@ -9,7 +9,7 @@
 </div>
 
 <p align="center">
-  <strong>Líder de Projetos e Arquiteto de Soluções | Salesforce, MarTech & Multi-Cloud</strong>
+  <strong>Líder de Projetos e Especialista | Salesforce, MarTech & Multi-Cloud</strong>
   <br />
   Conectando negócios e tecnologia para impulsionar a transformação digital.
 </p>
