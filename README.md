@@ -31,6 +31,7 @@ Certificações: Salesforce Associate, Salesforce Marketing Cloud E-mail Special
 
 ## Oracle Cloud
 <img src="https://github.com/enriqSilv/enriqSilv/assets/120118274/43f70360-430d-487c-bc39-4278a53a1fce" width="80" height="80">
+<img src="https://github.com/user-attachments/assets/eda01a59-9b3c-4061-91ab-614fb25ec01d" width="80" height="80">
 
 <br/>
 
