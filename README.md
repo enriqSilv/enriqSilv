@@ -4,7 +4,7 @@
 
 <div id="user-content-toc">
   <ul align="center">
-    <summary><h1 style="display: inline-block;">Olá, eu sou o Henrique! 👋</h1></summary>
+    <summary><h1 style="display: inline-block;">Olá, eu sou o José Henrique! 👋</h1></summary>
   </ul>
 </div>
 
@@ -15,10 +15,10 @@
 </p>
 
 <p align="center">
-  <a href="URL_DO_SEU_LINKEDIN" target="_blank">
+  <a href="https://www.linkedin.com/in/josehenrique38/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
-  <a href="mailto:SEU_EMAIL@exemplo.com" target="_blank">
+  <a href="mailto:josehenriquee.silvaa@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
 </p>
