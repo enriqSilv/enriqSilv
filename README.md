@@ -25,7 +25,7 @@ Além da atuação corporativa, dedico-me à inclusão digital, desenvolvendo e 
 
 ## Oracle Cloud
 <img src="https://github.com/enriqSilv/enriqSilv/assets/120118274/43f70360-430d-487c-bc39-4278a53a1fce" width="120" height="120">
-<img src="https://github.com/user-attachments/assets/7d830066-f88a-4fa1-bfae-50878be73c8f" width="120" height="120">
+<img src="https://github.com/user-attachments/assets/727eeab8-b4e3-4e8f-bf3c-09f152204b9f" width="120" height="120">
 
 <br/>
 
