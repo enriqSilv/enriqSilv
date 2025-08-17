@@ -84,12 +84,15 @@ Aqui estão algumas das tecnologias e ferramentas com as quais trabalho:
     </td>
   </tr>
   <tr>
-    <td valign="top" width="50%">
-      <strong>🚀 Metodologias & Gestão</strong><br><br>
-      <a href="#"><img src="https://img.shields.io/badge/Agile-D00000?style=for-the-badge&logo=agile&logoColor=white" alt="Agile"></a>
-      <a href="#"><img src="https://img.shields.io/badge/Scrum-0078D4?style=for-the-badge&logo=scrum&logoColor=white" alt="Scrum"></a>
-      <a href="#"><img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white" alt="Jira"></a>
-    </td>
+<td valign="top" width="50%">
+  <strong>🚀 Metodologias & Gestão</strong><br><br>
+  <a href="#"><img src="https://img.shields.io/badge/Agile-D00000?style=for-the-badge&logo=agile&logoColor=white" alt="Agile"></a>
+  <a href="#"><img src="https://img.shields.io/badge/Scrum-0078D4?style=for-the-badge&logo=scrum&logoColor=white" alt="Scrum"></a>
+  <a href="#"><img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white" alt="Jira"></a>
+  <a href="#"><img src="https://img.shields.io/badge/Trello-0079BF?style=for-the-badge&logo=trello&logoColor=white" alt="Trello"></a>
+  <a href="#"><img src="https://img.shields.io/badge/Monday-FF158A?style=for-the-badge&logo=mondaydotcom&logoColor=white" alt="Monday.com"></a>
+  <a href="#"><img src="https://img.shields.io/badge/Azure_DevOps-0078D7?style=for-the-badge&logo=azuredevops&logoColor=white" alt="Azure DevOps"></a>
+</td>
     <td valign="top" width="50%">
       <strong>🛠️ Ferramentas & Outros</strong><br><br>
       <a href="#"><img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"></a>
