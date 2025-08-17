@@ -30,7 +30,7 @@ Além da atuação corporativa, dedico-me à inclusão digital, desenvolvendo e 
 <br/>
 
 ## Google
-<img src="https://github.com/user-attachments/assets/2a764e27-fa61-4296-8080-549b74541831" width="120" height="120">
+<img src="https://github.com/user-attachments/assets/2a764e27-fa61-4296-8080-549b74541831" width="180" height="180">
 
 <br/>
 
