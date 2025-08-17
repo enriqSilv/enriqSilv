@@ -1,15 +1,9 @@
 # Quem sou eu? 👨‍💻
-Profissional com sólida formação em Marketing, Tecnologia e Cloud Computing, com mais de 4 anos de experiência em Salesforce, liderando projetos e desenvolvendo soluções inovadoras para otimizar operações e gerar impacto estratégico para os clientes.
+Profissional com mais de 5 anos de experiência em MarTech, Salesforce e Cloud Computing, especializado em liderança de projetos e arquitetura de soluções que otimizam operações e geram impacto estratégico. Possuo histórico na expansão e gestão de portfólios de soluções em Salesforce e outras tecnologias, impulsionando a transformação digital com metodologias ágeis.
 
-Possuo experiência na expansão, aplicação e gestão de portfólios de soluções em Salesforce e outras tecnologias associadas, ampliando a oferta de serviços e impulsionando a transformação digital em diferentes organizações, além de atuar com metodologias ágeis para garantir entregas alinhadas às necessidades do cliente.
+Minha formação acadêmica inclui Marketing e Bacharelado em Sistemas de Informação, complementada por um MBA em Cloud Engineering & Architecture e atualmente cursado como aluno especial o Mestrado em Ciência da Computação. Essa base multidisciplinar me permite combinar expertise técnica avançada com uma visão estratégica de negócios. Busco integrar Inteligência Artificial, CRM e Cloud Computing para desenvolver soluções inovadoras que elevem a eficiência operacional e o crescimento de empresas.
 
-Atualmente sou Mestrando em Ciência da Computação pela UNESP, e com formações em Marketing, Bacharelado em Sistemas de Informação e MBA em Cloud Engineering & Architecture, permitindo-me combinar expertise técnica com visão estratégica de negócios. 
-
-Além da experiência no setor corporativo, atuei no terceiro setor, desenvolvendo e ministrando cursos de TI para capacitar alunos de baixa renda e promover a inclusão digital.
-
-Com um perfil multidisciplinar e orientado a resultados, busco sempre integrar inteligência artificial, CRM e computação em nuvem para criar soluções que impulsionam a eficiência operacional e o crescimento das empresas.
-
-Certificações: Salesforce Associate, Salesforce Marketing Cloud E-mail Specialist, AWS Certified Cloud Practitioner, IBM Consultant Profession Certification, IBM Certified Advocate - Cloud v2, Oracle Cloud Infrastructure 2023 Certified
+Além da atuação corporativa, dedico-me à inclusão digital, desenvolvendo e ministrando cursos de TI. Sou 6x Certified, com credenciais em Salesforce (Associate, Marketing Cloud Email Specialist), AWS Certified Cloud Practitioner, IBM (Consultant Profession, IBM Cloud Advocate v2) e Oracle Cloud Infrastructure.
 
 # Certifications and Badges 
 ## Salesforce
@@ -31,7 +25,7 @@ Certificações: Salesforce Associate, Salesforce Marketing Cloud E-mail Special
 
 ## Oracle Cloud
 <img src="https://github.com/enriqSilv/enriqSilv/assets/120118274/43f70360-430d-487c-bc39-4278a53a1fce" width="80" height="80">
-<img src="https://github.com/user-attachments/assets/eda01a59-9b3c-4061-91ab-614fb25ec01d" width="80" height="80">
+<img src="https://github.com/user-attachments/assets/7d830066-f88a-4fa1-bfae-50878be73c8f" width="80" height="80">
 
 <br/>
 
