@@ -34,6 +34,11 @@ Certificações: Salesforce Associate, Salesforce Marketing Cloud E-mail Special
 
 <br/>
 
+## Google
+<img src="https://github.com/user-attachments/assets/2a764e27-fa61-4296-8080-549b74541831" width="80" height="80">
+
+<br/>
+
 ## IBM
 <img src="https://github.com/enriqSilv/enriqSilv/assets/120118274/c9f7ea82-b710-4e11-aec9-d2eb9e71d2c9" width="80" height="80">
 <img src="https://github.com/enriqSilv/enriqSilv/assets/120118274/21dea914-e51e-40d2-82bc-821cf3332aa4" width="80" height="80">
