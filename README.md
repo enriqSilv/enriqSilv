@@ -43,52 +43,62 @@ Aqui estão algumas das tecnologias e ferramentas com as quais trabalho:
 <table>
   <tr>
     <td valign="top" width="50%">
-      <strong>CRM & MarTech</strong><br><br>
-      <a href="#"><img src="https://img.shields.io/badge/Salesforce-00A1E0?style=for-the-badge&logo=Salesforce&logoColor=white" alt="Salesforce"></a>
-      <a href="#"><img src="https://img.shields.io/badge/Marketing_Cloud-00A1E0?style=for-the-badge&logo=Salesforce&logoColor=white" alt="Marketing Cloud"></a>
-    </td>
-    <td valign="top" width="50%">
-      <strong>Cloud & DevOps</strong><br><br>
+      <strong>☁️ Cloud & DevOps</strong><br><br>
       <a href="#"><img src="https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS"></a>
       <a href="#"><img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white" alt="Oracle Cloud"></a>
       <a href="#"><img src="https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white" alt="Azure"></a>
       <a href="#"><img src="https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white" alt="Google Cloud"></a>
       <a href="#"><img src="https://img.shields.io/badge/IBM_Cloud-0062FF?style=for-the-badge&logo=ibm-cloud&logoColor=white" alt="IBM Cloud"></a>
+      <br>
+      <a href="#"><img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"></a>
+      <a href="#"><img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" alt="Kubernetes"></a>
+      <a href="#"><img src="https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white" alt="Terraform"></a>
+      <a href="#"><img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white" alt="GitHub Actions"></a>
+    </td>
+    <td valign="top" width="50%">
+      <strong>⚙️ Plataforma Salesforce</strong><br><br>
+      <a href="#"><img src="https://img.shields.io/badge/Salesforce-00A1E0?style=for-the-badge&logo=Salesforce&logoColor=white" alt="Salesforce"></a>
+      <a href="#"><img src="https://img.shields.io/badge/Marketing_Cloud-00A1E0?style=for-the-badge&logo=Salesforce&logoColor=white" alt="Marketing Cloud"></a>
+      <br>
+      <a href="#"><img src="https://img.shields.io/badge/Apex-00A1E0?style=for-the-badge&logo=Salesforce&logoColor=white" alt="Apex"></a>
+      <a href="#"><img src="https://img.shields.io/badge/LWC-00A1E0?style=for-the-badge&logo=Salesforce&logoColor=white" alt="LWC"></a>
+      <a href="#"><img src="https://img.shields.io/badge/SOQL-00A1E0?style=for-the-badge&logo=Salesforce&logoColor=white" alt="SOQL"></a>
     </td>
   </tr>
   <tr>
     <td valign="top" width="50%">
-      <strong>Linguagens de Programação</strong><br><br>
+      <strong>💻 Linguagens & Frameworks</strong><br><br>
       <a href="#"><img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="Python"></a>
       <a href="#"><img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" alt="JavaScript"></a>
       <a href="#"><img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java"></a>
       <a href="#"><img src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white" alt="NodeJS"></a>
       <a href="#"><img src="https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white" alt="C#"></a>
-      <a href="#"><img src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++"></a>
-      <a href="#"><img src="https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white" alt="Shell Script"></a>
-    </td>
-    <td valign="top" width="50%">
-      <strong>Bancos de Dados & Web</strong><br><br>
-      <a href="#"><img src="https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white" alt="MS SQL Server"></a>
-      <a href="#"><img src="https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"></a>
       <a href="#"><img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"></a>
       <a href="#"><img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"></a>
+    </td>
+    <td valign="top" width="50%">
+      <strong>🗃️ Bancos de Dados & Dados</strong><br><br>
+      <a href="#"><img src="https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white" alt="MS SQL Server"></a>
+      <a href="#"><img src="https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"></a>
+      <a href="#"><img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL"></a>
     </td>
   </tr>
   <tr>
     <td valign="top" width="50%">
-      <strong>IA & Ferramentas</strong><br><br>
-      <a href="#"><img src="https://img.shields.io/badge/chatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white" alt="ChatGPT"></a>
-      <a href="#"><img src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code"></a>
-      <a href="#"><img src="https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=for-the-badge&logo=jupyter&logoColor=white" alt="Jupyter"></a>
+      <strong>🚀 Metodologias & Gestão</strong><br><br>
+      <a href="#"><img src="https://img.shields.io/badge/Agile-D00000?style=for-the-badge&logo=agile&logoColor=white" alt="Agile"></a>
+      <a href="#"><img src="https://img.shields.io/badge/Scrum-0078D4?style=for-the-badge&logo=scrum&logoColor=white" alt="Scrum"></a>
+      <a href="#"><img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white" alt="Jira"></a>
     </td>
     <td valign="top" width="50%">
-      <strong>Sistemas Operacionais</strong><br><br>
-      <a href="#"><img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux"></a>
+      <strong>🛠️ Ferramentas & Outros</strong><br><br>
+      <a href="#"><img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"></a>
+      <a href="#"><img src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code"></a>
+      <a href="#"><img src="https://img.shields.io/badge/chatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white" alt="ChatGPT"></a>
+      <a href="#"><img src="https://img.shields.io/badge/Google_Analytics-E47C00?style=for-the-badge&logo=google-analytics&logoColor=white" alt="Google Analytics"></a>
     </td>
   </tr>
 </table>
-
 ---
 
 ### 🏆 Certificações e Conquistas
